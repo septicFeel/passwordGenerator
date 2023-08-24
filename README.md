@@ -1,2 +1,2 @@
 # passwordGenerator
-password generator
+password generator using symbols, numbers letters and capital letters
